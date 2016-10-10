@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaderFiles/fshader.glsl</file>
+        <file>shaderFiles/stroke_on_screen.fsh</file>
+        <file>shaderFiles/stroke_on_screen.vsh</file>
+        <file>shaderFiles/strokeFS.glsl</file>
+        <file>shaderFiles/strokeVS.glsl</file>
+        <file>shaderFiles/vshader.glsl</file>
+    </qresource>
+</RCC>

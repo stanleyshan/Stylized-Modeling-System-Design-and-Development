@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>face_modelFiles/1000_943_test6.svm</file>
+        <file>face_modelFiles/1000_1000.dat</file>
+    </qresource>
+</RCC>

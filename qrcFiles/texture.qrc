@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textureFiles/boy_texture.png</file>
+        <file>textureFiles/chopper.png</file>
+        <file>textureFiles/cloth1.png</file>
+        <file>textureFiles/cube.png</file>
+        <file>textureFiles/data1.jpg</file>
+        <file>textureFiles/data1_color.png</file>
+        <file>textureFiles/data1_skin.png</file>
+        <file>textureFiles/data2.jpg</file>
+        <file>textureFiles/data3.jpg</file>
+        <file>textureFiles/data4.jpg</file>
+        <file>textureFiles/gloves1.png</file>
+        <file>textureFiles/hair1.png</file>
+        <file>textureFiles/hair2.png</file>
+        <file>textureFiles/hat1.png</file>
+        <file>textureFiles/ironman_red.png</file>
+        <file>textureFiles/ironman_white.png</file>
+        <file>textureFiles/ironman_yellow.png</file>
+        <file>textureFiles/ironman4.png</file>
+        <file>textureFiles/luffy.png</file>
+        <file>textureFiles/minion1.png</file>
+        <file>textureFiles/minion2.png</file>
+        <file>textureFiles/minion3.png</file>
+        <file>textureFiles/minion4.png</file>
+        <file>textureFiles/pants1.png</file>
+        <file>textureFiles/shoes1.png</file>
+        <file>textureFiles/skateboard1.jpg</file>
+        <file>textureFiles/model.png</file>
+        <file>textureFiles/target.png</file>
+    </qresource>
+</RCC>

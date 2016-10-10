@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>jsonFiles/left_eye_filter.json</file>
+        <file>jsonFiles/model_pca_20_svm.json</file>
+        <file>jsonFiles/nose_filter.json</file>
+        <file>jsonFiles/right_eye_filter.json</file>
+    </qresource>
+</RCC>

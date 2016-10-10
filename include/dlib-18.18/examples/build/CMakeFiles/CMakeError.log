@@ -1,0 +1,86 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/su/Downloads/dlib-18.18/dlib-18.18/examples/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_a5f61.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine Version 4.0.30319.34209
+[Microsoft .NET Framework, Version 4.0.30319.34209]
+Copyright (C) Microsoft Corporation 2007. All rights reserved.
+
+已經開始建置於 2016/1/5 下午 01:13:47。
+節點 1 (預設目標) 上的專案 "C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\cmTC_a5f61.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_a5f61.dir\Debug\"。
+  正在建立目錄 "C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\Debug\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_a5f61.dir\Debug\cmTC_a5f61.unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a5f61.dir\Debug\\" /Fd"cmTC_a5f61.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a5f61.dir\Debug\\" /Fd"cmTC_a5f61.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  
+  testCCompiler.c
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTC_a5f61.dir\Debug\cmTC_a5f61.exe.embed.manifest.res" cmTC_a5f61.dir\Debug\cmTC_a5f61_manifest.rc 
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\Debug\cmTC_a5f61.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTC_a5f61.dir\Debug\cmTC_a5f61.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/su/Downloads/dlib-18.18/dlib-18.18/examples/build/CMakeFiles/CMakeTmp/Debug/cmTC_a5f61.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/su/Downloads/dlib-18.18/dlib-18.18/examples/build/CMakeFiles/CMakeTmp/Debug/cmTC_a5f61.lib" /MACHINE:X86 cmTC_a5f61.dir\Debug\cmTC_a5f61.exe.embed.manifest.res
+  cmTC_a5f61.dir\Debug\testCCompiler.obj  /machine:X86 /debug 
+LINK : fatal error LNK1123: 轉換成 COFF 時失敗: 檔案無效或損毀 [C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\cmTC_a5f61.vcxproj]
+專案 "C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\cmTC_a5f61.vcxproj" (預設目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+"C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\cmTC_a5f61.vcxproj" (預設目標) (1) ->
+(Link 目標) -> 
+  LINK : fatal error LNK1123: 轉換成 COFF 時失敗: 檔案無效或損毀 [C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\cmTC_a5f61.vcxproj]
+
+    0 個警告
+    1 個錯誤
+
+經過時間 00:00:00.85
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/su/Downloads/dlib-18.18/dlib-18.18/examples/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_9edbc.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine 版本 4.0.30319.34209
+[Microsoft .NET Framework，版本 4.0.30319.34209]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/1/6 上午 11:37:36。
+節點 1 (預設目標) 上的專案 "C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\cmTC_9edbc.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_9edbc.dir\Debug\"。
+  正在建立目錄 "C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\Debug\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_9edbc.dir\Debug\cmTC_9edbc.unsuccessfulbuild"。
+ClCompile:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_9edbc.dir\Debug\\" /Fd"cmTC_9edbc.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_9edbc.dir\Debug\\" /Fd"cmTC_9edbc.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  
+  testCCompiler.c
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTC_9edbc.dir\Debug\cmTC_9edbc.exe.embed.manifest.res" cmTC_9edbc.dir\Debug\cmTC_9edbc_manifest.rc 
+Link:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\Debug\cmTC_9edbc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTC_9edbc.dir\Debug\cmTC_9edbc.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/su/Downloads/dlib-18.18/dlib-18.18/examples/build/CMakeFiles/CMakeTmp/Debug/cmTC_9edbc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/su/Downloads/dlib-18.18/dlib-18.18/examples/build/CMakeFiles/CMakeTmp/Debug/cmTC_9edbc.lib" /MACHINE:X86 cmTC_9edbc.dir\Debug\cmTC_9edbc.exe.embed.manifest.res
+  cmTC_9edbc.dir\Debug\testCCompiler.obj  /machine:X86 /debug 
+LINK : fatal error LNK1123: 轉換成 COFF 時失敗: 檔案無效或損毀 [C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\cmTC_9edbc.vcxproj]
+專案 "C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\cmTC_9edbc.vcxproj" (預設目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+"C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\cmTC_9edbc.vcxproj" (預設目標) (1) ->
+(Link 目標) -> 
+  LINK : fatal error LNK1123: 轉換成 COFF 時失敗: 檔案無效或損毀 [C:\Users\su\Downloads\dlib-18.18\dlib-18.18\examples\build\CMakeFiles\CMakeTmp\cmTC_9edbc.vcxproj]
+
+    0 個警告
+    1 個錯誤
+
+經過時間 00:00:03.24
+
+

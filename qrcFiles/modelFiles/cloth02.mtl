@@ -1,0 +1,18 @@
+newmtl null_SG
+illum 4
+Kd 0.14 0.47 0.45
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl null_SG2
+illum 4
+Kd 0.06 0.18 0.20
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl null_SG4
+illum 4
+Kd 0.32 0.21 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
